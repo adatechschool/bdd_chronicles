@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+<form method="post" action="mailto:votreemail@email.com">
+
+	<textarea rows="5" cols="20" wrap="physique" name="commentaires">Ecrivez un commentaire</textarea><br />
+	<input type="submit" value="M'envoyer un Email" />
+	
+</form>    
 </body>
 </html>
